@@ -11,7 +11,7 @@ Workflow:
 --- Create Django project (django-admin startproject).     
 
 2. Templates :        
---- Django templates that display HTML GUI seen by clients, using server side Python.       
+--- Django templates that display HTML GUI seen by clients, using server side Python. Uses DTL (Django Template Language)      
 --- Common layouts : base.html(block content to be embeded on each page) and home.html.       
 --- Make static folder for main.css, main.scss and main.js and update settings.py to make the HTML pages interactive.      
 
